@@ -1,0 +1,34 @@
+
+@media screen and (min-width:768px){
+    .cursor{
+        scroll-behavior: smooth;
+        // position: absolute;
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+        background-color: crimson;
+        // mix-blend-mode:difference;
+        transition: width .3s ease, height .3s ease;
+    }
+    
+    .scale{
+        width:100px;
+        height: 100px;
+        background-color: black;
+        text-align: center;
+        color:white;
+        // text-shadow: 0 0 3px currentColor;
+        display: grid;
+        place-items: center;
+        mix-blend-mode: normal;
+        font-size: 0.8rem;
+    }
+
+    .blend-mode-img{
+        background-color: white;
+        mix-blend-mode: difference;
+        width:80px;
+        height: 80px;
+    }
+}
+   
