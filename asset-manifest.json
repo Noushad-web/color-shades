@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/color-shades/static/css/main.86c817b2.chunk.css",
+    "main.js": "/color-shades/static/js/main.280f6415.chunk.js",
+    "main.js.map": "/color-shades/static/js/main.280f6415.chunk.js.map",
+    "runtime-main.js": "/color-shades/static/js/runtime-main.9b07ddd6.js",
+    "runtime-main.js.map": "/color-shades/static/js/runtime-main.9b07ddd6.js.map",
+    "static/css/2.4be38407.chunk.css": "/color-shades/static/css/2.4be38407.chunk.css",
+    "static/js/2.ea5da148.chunk.js": "/color-shades/static/js/2.ea5da148.chunk.js",
+    "static/js/2.ea5da148.chunk.js.map": "/color-shades/static/js/2.ea5da148.chunk.js.map",
+    "static/js/3.9ab3df62.chunk.js": "/color-shades/static/js/3.9ab3df62.chunk.js",
+    "static/js/3.9ab3df62.chunk.js.map": "/color-shades/static/js/3.9ab3df62.chunk.js.map",
+    "index.html": "/color-shades/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/color-shades/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.86c817b2.chunk.css.map": "/color-shades/static/css/main.86c817b2.chunk.css.map",
+    "static/js/2.ea5da148.chunk.js.LICENSE.txt": "/color-shades/static/js/2.ea5da148.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b07ddd6.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.ea5da148.chunk.js",
+    "static/css/main.86c817b2.chunk.css",
+    "static/js/main.280f6415.chunk.js"
+  ]
+}
